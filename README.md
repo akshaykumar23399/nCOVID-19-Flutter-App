@@ -1,6 +1,6 @@
 # COVID-19
 
-An android app that shows latest stats about the ongoing nCOVID-19 pandemic.
+An android app that shows latest stats about the ongoing nCOVID-19 pandemic from all over the world . 
 
 ![Download APK File](https://github.com/mmstq/nCOVID-19-Flutter-App/blob/master/mmstq.com.covid.apk?raw=true)
 
